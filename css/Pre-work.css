@@ -1,0 +1,179 @@
+body {
+  margin: 0px;
+  background-color: #000;
+}
+.rock-coast-logo {
+  height: 120px;
+  width: auto;
+  display: block;
+  float: left;
+  padding: 10px;
+}
+
+.nav-bg {
+  background-color: #70808f;
+  height: 140px;
+}
+
+.nav-ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: 10px;
+  font-size: 17px;
+  position: absolute;
+  top: 31px;
+  left: 245px;
+  padding: 12px;
+}
+.button-style {
+  border: none;
+  margin: 12px;
+  background-color: white;
+  font-size: 17px;
+  padding: 8px;
+  color: black;
+  text-decoration: none;
+}
+
+.button-style:hover {
+  border-radius: 5px;
+  background-color: #d3d3d3;
+  border: 1px solid #000;
+  padding: 7px;
+}
+
+.nav-li {
+  float: left;
+  position: static;
+}
+
+.page-box {
+  background-color: #fff;
+  height: 900px;
+  width: 97%;
+  margin: auto;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.page-body {
+  width: 1000px;
+  height: 900px;
+  margin: auto;
+}
+
+.title-style {
+  padding: 25px 25px 0px 25px;
+  font-size: 30px;
+  color: #d27731;
+  font-weight: 100;
+}
+
+.sample-text {
+  padding: 0px 25px 0px 50px;
+  float: left;
+  width: 550px;
+  height: auto;
+}
+
+.image-box {
+  width: 280px;
+  height: 168px;
+  float: left;
+}
+.sample-img {
+  width: 280px;
+  height: 168px;
+  object-fit: cover;
+}
+
+.sample-img:hover {
+  mix-blend-mode: difference;
+  display: block;
+}
+
+.second-title {
+  display: inline-block;
+}
+
+.product-cont {
+  width: 90%;
+  height: 460px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.product-block {
+  float: left;
+  width: 245px;
+  height: 410px;
+  margin: auto;
+  margin-right: 60px;
+}
+
+.product-block:last-child {
+  margin-right: 0px;
+}
+
+.product-title {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+.product-info {
+  background-color: #f98a44;
+  width: 245px;
+  height: 410px;
+  margin-top: 60px;
+  border-radius: 10px;
+}
+
+.info-cont {
+  margin: auto;
+  padding-top: 1px;
+  width: 210px;
+  height: 400px;
+}
+
+hr {
+  background-color: #000;
+  border: none;
+  height: 2px;
+}
+
+.more-info-cont {
+  width: 210px;
+  height: 225px;
+}
+
+.more-info-titles {
+  float: left;
+  height: 230px;
+  width: 105px;
+}
+
+.info-split {
+  height: 115px;
+  width: 105px;
+}
+
+.buy-now {
+  float: left;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 2.5em;
+  border: none;
+  background-color: white;
+  font-size: 17px;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.buy-now-cont {
+  height: 40px;
+  width: 210px;
+}
